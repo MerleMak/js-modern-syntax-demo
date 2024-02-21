@@ -53,7 +53,7 @@ console.log(rest[1]);
 
 /* ---------------- Rest Syntax ----------------- */
 
-// Rest Operator
+// Rest Syntax
 // The rest operator is used to collect multiple elements or properties into a single array or object. It "gathers" the rest of the elements.
 // Used in function parameters and destructuring assignments.
 
@@ -66,7 +66,7 @@ console.log(showZooAnimals('Monkey', 'Crocodil', 'Pig'));
 
 /* ---------------- Spread Syntax ----------------- */
 
-// Spread Operator
+// Spread Syntax
 // The spread operator is used to expand or "spread" iterable elements (like arrays) or object properties into a new array or object.
 // Used in array literals, object literals, and function calls.
 
